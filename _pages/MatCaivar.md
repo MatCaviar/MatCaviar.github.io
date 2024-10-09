@@ -184,6 +184,6 @@ ArXiv 2024
     <img src="collections/email-icon.svg" width="53" target="_blank"/> </a >   &nbsp;&nbsp;&nbsp;
 <a href = "https://scholar.google.com/citations?hl=zh-CN&user=D_lQNBUAAAAJ" target="_blank"> 
     <img src="collections/google_scholar-icon.svg" width="63" target="_blank"/></a >   &nbsp;&nbsp;&nbsp;
-<a href = "https://github.com/MatCaviar" target="_blank">
+<a href = "https://github.com/MatCaviar/MatCaviar.github.io" target="_blank">
     <img src="collections/github-icon.svg" width="53" target="_blank"/></a > &nbsp;&nbsp;&nbsp;
 </center>
