@@ -181,9 +181,9 @@ ArXiv 2024
 
 <center>
 <a href="mailto:sugger@tongji.edu.cn" target="_blank"> 
-    <img src="collections/email-icon.svg" width="37" target="_blank"/> </a >   &nbsp;&nbsp;&nbsp;
+    <img src="collections/email-icon.svg" width="53" target="_blank"/> </a >   &nbsp;&nbsp;&nbsp;
 <a href = "https://scholar.google.com/citations?hl=zh-CN&user=D_lQNBUAAAAJ" target="_blank"> 
-    <img src="collections/google_scholar-icon.svg" width="38" target="_blank"/></a >   &nbsp;&nbsp;&nbsp;
+    <img src="collections/google_scholar-icon.svg" width="63" target="_blank"/></a >   &nbsp;&nbsp;&nbsp;
 <a href = "https://github.com/MatCaviar" target="_blank">
-    <img src="collections/github-icon.svg" width="37" target="_blank"/></a > &nbsp;&nbsp;&nbsp;
+    <img src="collections/github-icon.svg" width="53" target="_blank"/></a > &nbsp;&nbsp;&nbsp;
 </center>
