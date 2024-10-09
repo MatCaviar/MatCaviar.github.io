@@ -174,3 +174,13 @@ ArXiv 2024
 [<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><I><B>Yudong Wang,</B></I></font></span>](https://github.com/BIGWangYuDong){:target="_blank"}
 [<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><I><B>Wenwei Zhang</B></I></font></span>](http://zhangwenwei.cn/){:target="_blank"}
 
+<br>
+
+<center>
+<a href = "sugger@tongji.edu.cn" target="_blank"> 
+    < img src="collections/email-icon.png" width="35" target="_blank"> </a >   &nbsp;&nbsp;&nbsp;
+<a href = "https://scholar.google.com/citations?hl=zh-CN&user=D_lQNBUAAAAJ" target="_blank"> 
+    < img src="collections/google_scholar-icon.png" width="35" target="_blank"></a >   &nbsp;&nbsp;&nbsp;
+<a href = "https://github.com/MatCaviar" target="_blank">
+    < img src="collections/github-icon.svg" width="35" target="_blank"></a > &nbsp;&nbsp;&nbsp;
+</center>
