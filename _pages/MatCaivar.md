@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-## **<font  color="RoyalBlue"><I><B>Zifan</B></I></font>** <font  color="RoyalBlue"><I><B>Song</B></I></font>     
+## **<font  color="RoyalBlue"><B>Zifan</B></font>** <font  color="RoyalBlue"><B>Song</B></font>     
 <hr />
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}, advised by [<font color="RoyalBlue"><B>Prof. Cairong Zhao</B></font>](https://vill-lab.github.io/){:target="_blank"} and [<font color="RoyalBlue"><B>Guosheng Hu</B></font>](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}. After an unforgettable internship in [<font color="RoyalBlue"><B>OpenMMLab</B></font>](https://openmmlab.com/){:target="_blank"} at [<font color="RoyalBlue"><B>Shanghai AI Laboratory</B></font>](https://www.shlab.org.cn/){:target="_blank"} (working with [<font color="RoyalBlue"><B>Dr. Wenwei Zhang</B></font>](http://zhangwenwei.cn/){:target="_blank"} and [<font color="RoyalBlue"><B>Yudong Wang</B></font>](https://github.com/BIGWangYuDong){:target="_blank"}), my current research interests lie in **<font face="Georgia" color="RoyalBlue"><I><B>Multimodal Learning</B></I></font>**, **<font face="Georgia" color="RoyalBlue"><I><B>Data-centric AI</B></I></font>**, and **<font face="Georgia" color="RoyalBlue"><I><B>LLM Fine-tuning</B></I></font>**.
