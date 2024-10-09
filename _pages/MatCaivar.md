@@ -146,6 +146,7 @@ ArXiv 2024
     <div class="row">
       <div class="col-md-2">
         <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="100px" height="100px">
+        <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="100px" height="100px">
       </div>
       <div class="col-md-6">
         <div class="education-details">
@@ -178,9 +179,9 @@ ArXiv 2024
 
 <center>
 <a href = "sugger@tongji.edu.cn" target="_blank"> 
-    <img src="collections/email-icon.png" width="35" target="_blank"/> </a >   &nbsp;&nbsp;&nbsp;
+    <img src="collections/email-icon.svg" width="35" target="_blank"/> </a >   &nbsp;&nbsp;&nbsp;
 <a href = "https://scholar.google.com/citations?hl=zh-CN&user=D_lQNBUAAAAJ" target="_blank"> 
-    <img src="collections/google_scholar-icon.png" width="35" target="_blank"/></a >   &nbsp;&nbsp;&nbsp;
+    <img src="collections/google_scholar-icon.svg" width="35" target="_blank"/></a >   &nbsp;&nbsp;&nbsp;
 <a href = "https://github.com/MatCaviar" target="_blank">
     <img src="collections/github-icon.svg" width="35" target="_blank"/></a > &nbsp;&nbsp;&nbsp;
 </center>
