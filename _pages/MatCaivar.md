@@ -27,7 +27,7 @@ I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalB
 
 ### **News**
 <hr />
-- [2024/09] **1 Paper** on [**<font face="Georgia"><I><U><B>Deepfake Detection</B></U></I></font>**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001293){:target="_blank"} is accepted by Pattern Recognition, **<font face="Georgia" color="RoyalBlue"><I><B>PR 2025</B></I></font>**.
+- [2025/02] **1 Paper** on [**<font face="Georgia"><I><U><B>Deepfake Detection</B></U></I></font>**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001293){:target="_blank"} is accepted by Pattern Recognition, **<font face="Georgia" color="RoyalBlue"><I><B>PR 2025</B></I></font>**.
 - [2024/09] **2 Papers** on LLM Fine-tuning ([**<font face="Georgia"><I><U><B>AlchemistCoder</B></U></I></font>**](https://internlm.github.io/AlchemistCoder/){:target="_blank"}) and Video Understanding ([**<font face="Georgia"><I><U><B>Open-Vocabulary Online Action Detection</B></U></I></font>**](https://openreview.net/pdf?id=PWzB2V2b6R){:target="_blank"}) are accepted by Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2024</B></I></font>**.
 - [2024/08] I have been invited to serve as a Reviewer for International Conference on Learning Representations, **<font face="Georgia" color="RoyalBlue"><I><B>ICLR 2025</B></I></font>**.
 - [2024/05] **1 Paper** on LLM Pre-training ([***<font face="Georgia"><I><U><B>Code Needs Comments</B></U></I></font>***](https://arxiv.org/abs/2402.13013){:target="_blank"}) is accepted by Annual Meeting of the Association for Computational Linguistics, **<font face="Georgia" color="RoyalBlue"><I><B>ACL 2024</B></I></font>**.
