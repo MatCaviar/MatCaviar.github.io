@@ -27,6 +27,8 @@ I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalB
 
 ### **News**
 <hr />
+- [2025/04] I have been invited to serve as a Reviewer for Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2025</B></I></font>**.
+- [2025/03] I have been invited to serve as a Reviewer for International Conference on Computer Vision, **<font face="Georgia" color="RoyalBlue"><I><B>ICCV 2025</B></I></font>**.
 - [2025/03] I will join Microsoft Research Asia (**<font face="Georgia" color="RoyalBlue"><I><B>MSRA</B></I></font>**) to start an internship journey.
 - [2025/03] I have been invited to serve as a Reviewer for **<font face="Georgia" color="RoyalBlue"><I><B>ACL</B></I></font>** Rolling Review.
 - [2025/02] **1 Paper** on [**<font face="Georgia"><I><U><B>Deepfake Detection</B></U></I></font>**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001293){:target="_blank"} is accepted by Pattern Recognition, **<font face="Georgia" color="RoyalBlue"><I><B>PR 2025</B></I></font>**.
