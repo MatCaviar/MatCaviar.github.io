@@ -27,6 +27,7 @@ I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalB
 
 ### **News**
 <hr />
+- [2025/07] **1 Paper** on Training Paradigm ([**<font face="Georgia"><I><U><B>DPL++</B></U></I></font>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}) is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>TPAMI 2025</B></I></font>**.
 - [2025/04] I have been invited to serve as a Reviewer for Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2025</B></I></font>**.
 - [2025/03] I have been invited to serve as a Reviewer for International Conference on Computer Vision, **<font face="Georgia" color="RoyalBlue"><I><B>ICCV 2025</B></I></font>**.
 - [2025/03] I will join Microsoft Research Asia (**<font face="Georgia" color="RoyalBlue"><I><B>MSRA</B></I></font>**) to start an internship journey.
@@ -37,7 +38,7 @@ I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalB
 - [2024/05] **1 Paper** on LLM Pre-training ([***<font face="Georgia"><I><U><B>Code Needs Comments</B></U></I></font>***](https://arxiv.org/abs/2402.13013){:target="_blank"}) is accepted by Annual Meeting of the Association for Computational Linguistics, **<font face="Georgia" color="RoyalBlue"><I><B>ACL 2024</B></I></font>**.
 - [2023/12] **1 Paper** on Multimodal Learning ([***<font face="Georgia"><I><U><B>Diverse Person</B></U></I></font>***](https://ojs.aaai.org/index.php/AAAI/article/view/28298){:target="_blank"}) is accepted by Proceedings of the AAAI Conference on Artificial Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>AAAI 2024</B></I></font>**.
 - [2023/09] I will join Shanghai Artificial Intelligence Laboratory (**<font face="Georgia" color="RoyalBlue"><I><B>@OpenMMLab</B></I></font>**) to start an internship journey.
-- [2023/08] **1 Paper** on Graph Application ([***<font face="Georgia"><I><U><B>Scene-Pedestrian Graph</B></U></I></font>***](https://ieeexplore.ieee.org/abstract/document/10214025/){:target="_blank"}) is accepted by IEEE Transactions on Industrial Informatics, **<font face="Georgia" color="RoyalBlue"><I><B>IEEE TII</B></I></font>**.
+- [2023/08] **1 Paper** on Graph Application ([***<font face="Georgia"><I><U><B>Scene-Pedestrian Graph</B></U></I></font>***](https://ieeexplore.ieee.org/abstract/document/10214025/){:target="_blank"}) is accepted by IEEE Transactions on Industrial Informatics, **<font face="Georgia" color="RoyalBlue"><I><B>TII 2023</B></I></font>**.
 - [2023/07] **1 Paper** on Training Paradigm ([***<font face="Georgia"><I><U><B>Deep Perturbation Learning</B></U></I></font>***](https://proceedings.mlr.press/v202/song23c.html){:target="_blank"}) is accepted by International Conference on Machine Learning, **<font face="Georgia" color="RoyalBlue"><I><B>ICML 2023</B></I></font>**.
 
 <br>
