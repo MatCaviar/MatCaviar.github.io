@@ -21,13 +21,15 @@ social: false  # includes social icons at the bottom of the page
 ## **<font face="Georgia" color="RoyalBlue"><I><B>Zifan</B></I></font>** <font face="Georgia" color="RoyalBlue"><I><B>Song</B></I></font>     
 <hr />
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}, advised by [<font color="RoyalBlue"><B>Prof. Cairong Zhao</B></font>](https://vill-lab.github.io/){:target="_blank"} and [<font color="RoyalBlue"><B>Guosheng Hu</B></font>](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}. After an unforgettable internship in [<font color="RoyalBlue"><B>OpenMMLab</B></font>](https://openmmlab.com/){:target="_blank"} at [<font color="RoyalBlue"><B>Shanghai AI Laboratory</B></font>](https://www.shlab.org.cn/){:target="_blank"} (working with [<font color="RoyalBlue"><B>Dr. Wenwei Zhang</B></font>](http://zhangwenwei.cn/){:target="_blank"} and [<font color="RoyalBlue"><B>Yudong Wang</B></font>](https://github.com/BIGWangYuDong){:target="_blank"}), my current research interests lie in **<font face="Georgia" color="RoyalBlue"><I><B>Multimodal Learning</B></I></font>**, **<font face="Georgia" color="RoyalBlue"><I><B>Data-centric AI</B></I></font>**, and **<font face="Georgia" color="RoyalBlue"><I><B>LLM Fine-tuning</B></I></font>**.
+I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}, advised by [<font color="RoyalBlue"><B>Prof. Cairong Zhao</B></font>](https://vill-lab.github.io/){:target="_blank"} and [<font color="RoyalBlue"><B>Guosheng Hu</B></font>](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}. After an unforgettable internship in [<font color="RoyalBlue"><B>OpenMMLab</B></font>](https://openmmlab.com/){:target="_blank"} at [<font color="RoyalBlue"><B>Shanghai AI Laboratory</B></font>](https://www.shlab.org.cn/){:target="_blank"} (working with [<font color="RoyalBlue"><B>Dr. Wenwei Zhang</B></font>](http://zhangwenwei.cn/){:target="_blank"} and [<font color="RoyalBlue"><B>Yudong Wang</B></font>](https://github.com/BIGWangYuDong){:target="_blank"}), my current research interests lie in **<font face="Georgia" color="RoyalBlue"><I><B>Multimodal Learning</B></I></font>**, **<font face="Georgia" color="RoyalBlue"><I><B>Data-centric AI</B></I></font>**, and **<font face="Georgia" color="RoyalBlue"><I><B>LLM Agent</B></I></font>**.
 
 <br>
 
 ### **News**
 <hr />
+- [2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing, **<font face="Georgia" color="RoyalBlue"><I><B>TIP</B></I></font>**.
 - [2025/07] **1 Paper** on Training Paradigm ([**<font face="Georgia"><I><U><B>DPL++</B></U></I></font>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}) is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>TPAMI 2025</B></I></font>**.
+- [2025/07] I have been invited to serve as a Reviewer for the 40th Annual AAAI Conference on Artificial Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>AAAI 2026</B></I></font>**.
 - [2025/04] I have been invited to serve as a Reviewer for Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2025</B></I></font>**.
 - [2025/03] I have been invited to serve as a Reviewer for International Conference on Computer Vision, **<font face="Georgia" color="RoyalBlue"><I><B>ICCV 2025</B></I></font>**.
 - [2025/03] I will join Microsoft Research Asia (**<font face="Georgia" color="RoyalBlue"><I><B>MSRA</B></I></font>**) to start an internship journey.
@@ -45,6 +47,18 @@ I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalB
 
 ### **Publications**
 <hr />
+<img src="collections/DPL++.png"  width="307" height="173"  align="left" hspace="20" vspace="0"/>
+###### ** DPL++: Advancing the Network Performance via Image and Label Perturbations** 
+
+**<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song*</B></I></font>**<font face="Georgia"><I>, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao</I></font>
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>TPAMI 2025</B></I></font>** 
+
+[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}
+[[<font color="RoyalBlue"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}
+
+<br>
+
 <img src="collections/AlchemistCoder.png"  width="307" height="173"  align="left" hspace="20" vspace="0"/>
 ###### **AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data** 
 
