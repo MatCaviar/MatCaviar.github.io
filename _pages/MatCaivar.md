@@ -47,7 +47,7 @@ I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalB
 
 ### **Publications**
 <hr />
-<img src="collections/DPL++.png"  width="307" height="173"  align="left" hspace="20" vspace="0"/>
+<img src="collections/DPL++.png"  width="307" height="137"  align="left" hspace="20" vspace="0"/>
 ###### ** DPL++: Advancing the Network Performance via Image and Label Perturbations** 
 
 **<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song*</B></I></font>**<font face="Georgia"><I>, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao</I></font>
