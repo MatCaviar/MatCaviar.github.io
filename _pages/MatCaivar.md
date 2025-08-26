@@ -45,12 +45,12 @@ I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalB
 
 <br>
 
-### **Publications**
+### **Selected Publications**
 <hr />
 <img src="collections/DPL++.png"  width="307" height="133"  align="left" hspace="20" vspace="0"/>
 ###### **DPL++: Advancing the Network Performance via Image and Label Perturbations** 
 
-**<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song*</B></I></font>**<font face="Georgia"><I>, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao</I></font>
+**<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song</B></I></font>**<font face="Georgia"><I>, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao</I></font>
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>TPAMI 2025</B></I></font>** 
 
