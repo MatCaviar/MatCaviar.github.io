@@ -50,11 +50,11 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
       </div>
       <div class="col-md-6">
         <div class="education-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><I><B>Tongji University</B></I></font></span></div>
+        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Tongji University</B></font></span></div>
         <div>Doctoral Student</div><div> Computer Science and Technology</div><div> 2021.09 - Present</div>      
         <hr />
         <div class="education-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><I><B>Tongji University</B></I></font></span></div>
+        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Tongji University</B></font></span></div>
         <div>Bachelor Degree</div><div>Computer Science and Technology </div><div> 2017.09 - 2021.06 </div>      
       </div>
     </div>
@@ -89,7 +89,7 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 
 **<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song</B></I></font>**<font face="Georgia"><I>, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao</I></font>
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>TPAMI 2025</B></I></font>** 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="RoyalBlue"><B>TPAMI</B></font>**), 2025 
 
 [[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}
 [[<font color="RoyalBlue"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}
@@ -101,7 +101,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, **<font face="Ge
 
 **<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song*</B></I></font>**<font face="Georgia"><I>, Yudong Wang*, Wenwei Zhang*, Kuikun Liu, Chengqi Lyu, Demin Song, Qipeng Guo, Hang Yan, Dahua Lin, Kai Chen, Cairong Zhao</I></font>
 
-Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2024</B></I></font>** 
+Advances in Neural Information Processing Systems (**<font face="Georgia" color="RoyalBlue"><B>NeurIPS</B></font>**), 2024
 
 [[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://arxiv.org/pdf/2405.19265){:target="_blank"}
 [[<font color="RoyalBlue"><B>👨‍💻 Code</B></font>]](https://github.com/InternLM/AlchemistCoder){:target="_blank"}
@@ -115,7 +115,7 @@ Advances in Neural Information Processing Systems, **<font face="Georgia" color=
 
 <font face="Georgia"><I>Qingsong Zhao, Yi Wang, Jilan Xu, Yinan He, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song</B></I></font>**<font face="Georgia"><I>, Limin Wang, Yu Qiao, Cairong Zhao</I></font>
 
-Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2024</B></I></font>**
+Advances in Neural Information Processing Systems (**<font face="Georgia" color="RoyalBlue"><B>NeurIPS</B></font>**), 2024
 
 [[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://openreview.net/pdf?id=PWzB2V2b6R){:target="_blank"}
 
@@ -125,7 +125,7 @@ Advances in Neural Information Processing Systems, **<font face="Georgia" color=
 ###### **Code Needs Comments: Enhancing Code LLMs with Comment Augmentation** 
 <font face="Georgia"><I>Demin Song, Honglin Guo, Yunhua Zhou, Shuhao Xing, Yudong Wang, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song</B></I></font>**<font face="Georgia"><I>, Wenwei Zhang, Qipeng Guo, Hang Yan, Xipeng Qiu, Dahua Lin</I></font>
 
-Annual Meeting of the Association for Computational Linguistics, **<font face="Georgia" color="RoyalBlue"><I><B>ACL 2024</B></I></font>**
+Annual Meeting of the Association for Computational Linguistics (**<font face="Georgia" color="RoyalBlue"><B>ACL</B></font>**), 2024
 
 [[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2402.13013){:target="_blank"}
 
@@ -135,7 +135,7 @@ Annual Meeting of the Association for Computational Linguistics, **<font face="G
 ###### **Diverse Person: Customize Your Own Dataset for Text-Based Person Search** 
 **<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song</B></I></font>**<font face="Georgia"><I>, Guosheng Hu, Cairong Zhao</I></font>
 
-Proceedings of the AAAI Conference on Artificial Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>AAAI 2024</B></I></font>**
+Proceedings of the AAAI Conference on Artificial Intelligence (**<font face="Georgia" color="RoyalBlue"><B>AAAI</B></font>**), 2024
 
 [[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://ojs.aaai.org/index.php/AAAI/article/view/28298){:target="_blank"}
 [[<font color="RoyalBlue"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2024-AAAI-DP){:target="_blank"}
@@ -146,7 +146,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence, **<font face="Geo
 ###### **Learning Scene-Pedestrian Graph for End-to-End Person Search** 
 **<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song</B></I></font>**<font face="Georgia"><I>, Cairong Zhao, Guosheng Hu, Duoqian Miao</I></font>
 
-IEEE Transactions on Industrial Informatics, **<font face="Georgia" color="RoyalBlue"><I><B>IEEE TII 2023</B></I></font>**
+IEEE Transactions on Industrial Informatics (**<font face="Georgia" color="RoyalBlue"><B>TII</B></font>**), 2023
 
 [[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/abstract/document/10214025/){:target="_blank"}
 [[<font color="RoyalBlue"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-TII-SPG){:target="_blank"}
@@ -157,7 +157,7 @@ IEEE Transactions on Industrial Informatics, **<font face="Georgia" color="Royal
 ###### **Deep perturbation learning: enhancing the network performance via image perturbations** 
 **<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song</B></I></font>**<font face="Georgia"><I>, Xiao Gong, Guosheng Hu, Cairong Zhao</I></font>
 
-International Conference on Machine Learning, **<font face="Georgia" color="RoyalBlue"><I><B>ICML 2023</B></I></font>**
+International Conference on Machine Learning (**<font face="Georgia" color="RoyalBlue"><B>ICML</B></font>**), 2023
 
 [[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://proceedings.mlr.press/v202/song23c.html){:target="_blank"}
 [[<font color="RoyalBlue"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}
