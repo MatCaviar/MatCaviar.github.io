@@ -180,6 +180,24 @@ ArXiv 2024
 <br>
 
 
+### **Service**
+<hr />
+<div class="industry">
+    <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+          <tr>
+            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
+            <td>
+                <a class="news-title"><font size="3">IEEE Transactions on Image Processing (**<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>**)</font></a>
+            </td>
+            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+        </table>
+    </div>  
+</div>
+
+<br>
+
 
 ### **Connections**
 <hr />
