@@ -21,27 +21,20 @@ social: false  # includes social icons at the bottom of the page
 ## 宋<B>子帆</B>
 <hr />
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}, advised by [<font color="RoyalBlue"><B>Prof. Cairong Zhao</B></font>](https://vill-lab.github.io/){:target="_blank"} and [<font color="RoyalBlue"><B>Guosheng Hu</B></font>](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}. My research interests lie in **<font face="Georgia" color="RoyalBlue"><I><B>Multimodal Learning</B></I></font>**, **<font face="Georgia" color="RoyalBlue"><I><B>Data-centric AI</B></I></font>**, and **<font face="Georgia" color="RoyalBlue"><I><B>LLM Agent</B></I></font>**.
+I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}, advised by [<font color="RoyalBlue"><B>Prof. Cairong Zhao</B></font>](https://vill-lab.github.io/){:target="_blank"} and [<font color="RoyalBlue"><B>Guosheng Hu</B></font>](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}. My research interests lie in **<font face="Georgia" color="RoyalBlue"><B>Multimodal Learning</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>Data-centric AI</B></font>**, and **<font face="Georgia" color="RoyalBlue"><B>LLM Agent</B></font>**.
 
 <br>
 
 ### **News @2025**
 <hr />
-- [2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing, **<font face="Georgia" color="RoyalBlue"><I><B>TIP</B></I></font>**.
-- [2025/07] **1 Paper** on ([**<I><U><B>Training Paradigm</B></U></I>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}) is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>TPAMI 2025</B></I></font>**.
+- [2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing (<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>).
+- [2025/07] **1 Paper** on [**<B>Training Paradigm</B>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"} is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="RoyalBlue"><B>TPAMI</B></font>**), 2025.
 - [2025/07] I have been invited to serve as a Reviewer for the 40th Annual AAAI Conference on Artificial Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>AAAI 2026</B></I></font>**.
 - [2025/04] I have been invited to serve as a Reviewer for Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2025</B></I></font>**.
 - [2025/03] I have been invited to serve as a Reviewer for International Conference on Computer Vision, **<font face="Georgia" color="RoyalBlue"><I><B>ICCV 2025</B></I></font>**.
 - [2025/03] I will join Microsoft Research Asia (**<font face="Georgia" color="RoyalBlue"><I><B>MSRA</B></I></font>**) to start an internship journey.
 - [2025/03] I have been invited to serve as a Reviewer for **<font face="Georgia" color="RoyalBlue"><I><B>ACL</B></I></font>** Rolling Review.
 - [2025/02] **1 Paper** on [**<font face="Georgia"><I><U><B>Deepfake Detection</B></U></I></font>**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001293){:target="_blank"} is accepted by Pattern Recognition, **<font face="Georgia" color="RoyalBlue"><I><B>PR 2025</B></I></font>**.
-<!-- - [2024/09] **2 Papers** on LLM Fine-tuning ([**<font face="Georgia"><I><U><B>AlchemistCoder</B></U></I></font>**](https://internlm.github.io/AlchemistCoder/){:target="_blank"}) and Video Understanding ([**<font face="Georgia"><I><U><B>Online Action Detection</B></U></I></font>**](https://openreview.net/pdf?id=PWzB2V2b6R){:target="_blank"}) are accepted by Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2024</B></I></font>**.
-- [2024/08] I have been invited to serve as a Reviewer for International Conference on Learning Representations, **<font face="Georgia" color="RoyalBlue"><I><B>ICLR 2025</B></I></font>**.
-- [2024/05] **1 Paper** on LLM Pre-training ([***<font face="Georgia"><I><U><B>Code Needs Comments</B></U></I></font>***](https://arxiv.org/abs/2402.13013){:target="_blank"}) is accepted by Annual Meeting of the Association for Computational Linguistics, **<font face="Georgia" color="RoyalBlue"><I><B>ACL 2024</B></I></font>**.
-- [2023/12] **1 Paper** on Multimodal Learning ([***<font face="Georgia"><I><U><B>Diverse Person</B></U></I></font>***](https://ojs.aaai.org/index.php/AAAI/article/view/28298){:target="_blank"}) is accepted by Proceedings of the AAAI Conference on Artificial Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>AAAI 2024</B></I></font>**.
-- [2023/09] I will join Shanghai Artificial Intelligence Laboratory (**<font face="Georgia" color="RoyalBlue"><I><B>@OpenMMLab</B></I></font>**) to start an internship journey.
-- [2023/08] **1 Paper** on Graph Application ([***<font face="Georgia"><I><U><B>Scene-Pedestrian Graph</B></U></I></font>***](https://ieeexplore.ieee.org/abstract/document/10214025/){:target="_blank"}) is accepted by IEEE Transactions on Industrial Informatics, **<font face="Georgia" color="RoyalBlue"><I><B>TII 2023</B></I></font>**.
-- [2023/07] **1 Paper** on Training Paradigm ([***<font face="Georgia"><I><U><B>Deep Perturbation Learning</B></U></I></font>***](https://proceedings.mlr.press/v202/song23c.html){:target="_blank"}) is accepted by International Conference on Machine Learning, **<font face="Georgia" color="RoyalBlue"><I><B>ICML 2023</B></I></font>**. -->
 
 <br>
 
