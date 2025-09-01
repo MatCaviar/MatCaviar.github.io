@@ -21,15 +21,15 @@ social: false  # includes social icons at the bottom of the page
 ## 宋<B>子帆</B>
 <hr />
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-I am a Ph.D candidate in Computer Science and Technology at [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}, advised by [<font color="RoyalBlue"><B>Prof. Cairong Zhao</B></font>](https://vill-lab.github.io/){:target="_blank"} and [<font color="RoyalBlue"><B>Guosheng Hu</B></font>](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}. My research interests lie in **<font face="Georgia" color="RoyalBlue"><B>Multimodal Learning</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>Data-centric AI</B></font>**, and **<font face="Georgia" color="RoyalBlue"><B>LLM Agent</B></font>**.
+I am a Ph.D candidate in Computer Science and Technology at [**Tongji University**](https://www.tongji.edu.cn/){:target="_blank"}, advised by [<font color="RoyalBlue"><B>Prof. Cairong Zhao</B></font>](https://vill-lab.github.io/){:target="_blank"} and [<font color="RoyalBlue"><B>Guosheng Hu</B></font>](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from [<font color="RoyalBlue"><B>Tongji University</B></font>](https://www.tongji.edu.cn/){:target="_blank"}. My research interests lie in **<font face="Georgia" color="RoyalBlue"><B>Multimodal Learning</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>Data-centric AI</B></font>**, and **<font face="Georgia" color="RoyalBlue"><B>LLM Agent</B></font>**.
 
 <br>
 
 ### **News @2025**
 <hr />
-- [2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing (<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>).
+- [2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing (**<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>**).
 - [2025/07] **1 Paper** on [**<B>Training Paradigm</B>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"} is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="RoyalBlue"><B>TPAMI</B></font>**), 2025.
-- [2025/07] I have been invited to serve as a Reviewer for the 40th Annual AAAI Conference on Artificial Intelligence, **<font face="Georgia" color="RoyalBlue"><I><B>AAAI 2026</B></I></font>**.
+- [2025/07] I have been invited to serve as a Reviewer for the 40th Annual AAAI Conference on Artificial Intelligence (**<font face="Georgia" color="RoyalBlue">AAAI 2026</font>**), 2026.
 - [2025/04] I have been invited to serve as a Reviewer for Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2025</B></I></font>**.
 - [2025/03] I have been invited to serve as a Reviewer for International Conference on Computer Vision, **<font face="Georgia" color="RoyalBlue"><I><B>ICCV 2025</B></I></font>**.
 - [2025/03] I will join Microsoft Research Asia (**<font face="Georgia" color="RoyalBlue"><I><B>MSRA</B></I></font>**) to start an internship journey.
