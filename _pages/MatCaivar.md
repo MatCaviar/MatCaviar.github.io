@@ -25,7 +25,7 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 
 <br>
 
-### **News @2025**
+### **News**
 <hr />
 - [2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing (**<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>**).
 - [2025/07] **1 Paper** on [**<B>Training Paradigm</B>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"} is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="RoyalBlue"><B>TPAMI</B></font>**), 2025.
@@ -50,11 +50,11 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
       </div>
       <div class="col-md-6">
         <div class="education-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Tongji University</B></font></span></div>
+        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>TONGJI UNIVERSITY</B></font></span></div>
         <div>Doctoral Student</div><div> Computer Science and Technology</div><div> 2021.09 - Present</div>      
         <hr />
         <div class="education-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Tongji University</B></font></span></div>
+        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>TONGJI UNIVERSITY</B></font></span></div>
         <div>Bachelor Degree</div><div>Computer Science and Technology </div><div> 2017.09 - 2021.06 </div>      
       </div>
     </div>
@@ -66,21 +66,30 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 
 ### **Internship**
 <hr />
-<div class="industry">
-    <div class="table-responsive">
-        <table class="table table-sm table-borderless">
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><I><B>Research Intern - §LLM Fine-tuning</B></I></font></span></th>
-            <td>
-                <a class="news-title" href="https://openmmlab.com/"><font color="RoyalBlue" size="3"><B>OpenMMLab @ Shanghai AI Laboratory</B></font></a>
-            </td>
-            <th scope="row"><i></i><font size="3">2023.09 - 2024.06</font></th>
-          </tr>
-        </table>
-    </div>  
+<div class="Internship">
+    <div class="row">
+      <div class="col-md-2">
+        <img class="img-fluid z-depth-0.5 rounded" src="collections/ms_logo.png" width="100px" height="100px">
+        <br>
+        <br>
+        <img class="img-fluid z-depth-0.5 rounded" src="collections/Shanghai_AI_Lab_logo.png" width="100px" height="100px">
+      </div>
+      <div class="col-md-6">
+        <div class="Internship-details">
+        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Microsoft Research Asia (MSRA)</B></font></span></div>
+        <div>Shanghai AI/ML Group</div><div> LLM Agent & World Model</div><div> 2025.03 - 2025.12</div>      
+        <hr />
+        <div class="Internship-details">
+        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Shanghai AI Laboratory</B></font></span></div>
+        <div>OpenMMLab @InternLM</div><div>LLM Fine-tuning & Code LLM</div><div> 2023.09 - 2024.06 </div>      
+      </div>
+    </div>
+  </div>
+</div>
 </div>
 
 <br>
+
 
 ### **Publications**
 <hr />
@@ -188,7 +197,7 @@ ArXiv 2024
           <tr>
             <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
             <td>
-                <a class="news-title"><font size="3">IEEE Transactions on Image Processing (**<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>**)</font></a>
+                <a class="news-title"><font size="3">IEEE Transactions on Image Processing (<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>)</font></a>
             </td>
             <th scope="row"><i></i><font size="3">2025 - Present</font></th>
           </tr>
