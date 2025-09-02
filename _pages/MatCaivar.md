@@ -206,7 +206,7 @@ ArXiv 2024
             <td>
                 <a class="news-title"><font size="3">International Conference on Learning Representations (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>ICLR</B></font></span>)</font></a>
             </td>
-            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+            <th scope="row"><i></i><font size="3">2024 - Present</font></th>
           </tr>
           <tr>
             <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Program Committee</B></font></span></th>
@@ -221,6 +221,13 @@ ArXiv 2024
                 <a class="news-title"><font size="3">Advances in Neural Information Processing Systems (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>NeurIPS</B></font></span>)</font></a>
             </td>
             <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+          <tr>
+            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
+            <td>
+                <a class="news-title"><font size="3">International Conference on Machine Learning (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>ICML</B></font></span>)</font></a>
+            </td>
+            <th scope="row"><i></i><font size="3">2024 - Present</font></th>
           </tr>
           <tr>
             <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
@@ -253,9 +260,9 @@ ArXiv 2024
           <tr>
             <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
             <td>
-                <a class="news-title"><font size="3">IEEE Transactions on Multimedia (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>TMM</B></font></span>)</font></a>
+                <a class="news-title"><font size="3">IEEE Conference on Artificial Intelligence (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>CAI</B></font></span>)</font></a>
             </td>
-            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+            <th scope="row"><i></i><font size="3">2024 - Present</font></th>
           </tr>
         </table>
     </div>  
