@@ -69,10 +69,10 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 <div class="Internship">
     <div class="row">
       <div class="col-md-2">
-        <img class="img-fluid z-depth-0.5 rounded" src="collections/ms_logo.png" width="100px" height="100px">
+        <img class="img-fluid z-depth-0.5 rounded" src="collections/MSRA_logo.png" width="100px" height="100px">
         <br>
         <br>
-        <img class="img-fluid z-depth-0.5 rounded" src="collections/Shanghai_AI_Lab_logo.png" width="100px" height="100px">
+        <img class="img-fluid z-depth-0.5 rounded" src="collections/Sh_AI_Lab_logo.png" width="100px" height="100px">
       </div>
       <div class="col-md-6">
         <div class="Internship-details">
