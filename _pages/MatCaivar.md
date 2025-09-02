@@ -200,6 +200,8 @@ ArXiv 2024
                 <a class="news-title"><font size="3">IEEE Transactions on Image Processing (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>TIP</B></font></span>)</font></a>
             </td>
             <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+          <tr>
             <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
             <td>
                 <a class="news-title"><font size="3">IEEE Transactions on Image Processing (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>TIP</B></font></span>)</font></a>
