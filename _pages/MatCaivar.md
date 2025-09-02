@@ -76,7 +76,7 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
       </div>
       <div class="col-md-6">
         <div class="Internship-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Microsoft Research Asia (MSRA)</B></font></span></div>
+        <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Microsoft Research Asia</B></font></span></div>
         <div>Shanghai AI/ML Group</div><div> LLM Agent & World Model</div><div> 2025.03 - 2025.12</div>      
         <hr />
         <div class="Internship-details">
