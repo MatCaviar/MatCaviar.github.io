@@ -204,7 +204,56 @@ ArXiv 2024
           <tr>
             <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
             <td>
-                <a class="news-title"><font size="3">IEEE Transactions on Image Processing (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>TIP</B></font></span>)</font></a>
+                <a class="news-title"><font size="3">International Conference on Learning Representations (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>ICLR</B></font></span>)</font></a>
+            </td>
+            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+          <tr>
+            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Program Committee</B></font></span></th>
+            <td>
+                <a class="news-title"><font size="3">Annual AAAI Conference on Artificial Intelligence (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>AAAI</B></font></span>)</font></a>
+            </td>
+            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+          <tr>
+            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
+            <td>
+                <a class="news-title"><font size="3">Advances in Neural Information Processing Systems (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>NeurIPS</B></font></span>)</font></a>
+            </td>
+            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+          <tr>
+            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
+            <td>
+                <a class="news-title"><font size="3">International Conference on Computer Vision (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>ICCV</B></font></span>)</font></a>
+            </td>
+            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+          <tr>
+            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
+            <td>
+                <a class="news-title"><font size="3">Annual Meeting of the Association for Computational Linguistics (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>ACL</B></font></span>)</font></a>
+            </td>
+            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+          <tr>
+            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
+            <td>
+                <a class="news-title"><font size="3">International Journal of Computer Vision (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>IJCV</B></font></span>)</font></a>
+            </td>
+            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+          <tr>
+            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
+            <td>
+                <a class="news-title"><font size="3">IEEE Transactions on Multimedia (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>TMM</B></font></span>)</font></a>
+            </td>
+            <th scope="row"><i></i><font size="3">2025 - Present</font></th>
+          </tr>
+          <tr>
+            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue" size="3"><B>Reviewer</B></font></span></th>
+            <td>
+                <a class="news-title"><font size="3">IEEE Transactions on Multimedia (<span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>TMM</B></font></span>)</font></a>
             </td>
             <th scope="row"><i></i><font size="3">2025 - Present</font></th>
           </tr>
