@@ -27,6 +27,8 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 
 ### **News**
 <hr />
+- [2025/09] **1 Paper** on [**<B>Learning Paradigm for LLMs</B>**](https://arxiv.org/abs/2505.11820){:target="_blank"} is accepted by Advances in Neural Information Processing Systems (**<font face="Georgia" color="RoyalBlue"><B>NeurIPS</B></font>**), 2025.
+- [2025/09] I have been invited to serve as a Reviewer for International Conference on Learning Representations (**<font face="Georgia" color="RoyalBlue"><B>ICLR</B></font>**), 2026.
 - [2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing (**<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>**).
 - [2025/07] **1 Paper** on [**<B>Training Paradigm</B>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"} is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="RoyalBlue"><B>TPAMI</B></font>**), 2025.
 - [2025/07] I have been invited to serve as a Reviewer for the 40th Annual AAAI Conference on Artificial Intelligence (**<font face="Georgia" color="RoyalBlue"><B>AAAI</B></font>**), 2026.
