@@ -123,7 +123,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-<img src="collections/internlm.png" width="307" height="123"   align="left" hspace="20" vspace="0"/>
+<img src="collections/internlm.png" width="307" height="103"   align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>InternLM2 Technical Report</B></font>**<br>
 **InternLM Group**<br>
 <B>arXiv, 2024<B><br>
@@ -152,7 +152,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-<img src="collections/SPG.png" width="307" height="123"  align="left" hspace="20" vspace="0"/>
+<img src="collections/SPG.png" width="307" height="103"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>Learning Scene-Pedestrian Graph for End-to-End Person Search</B></font>**<br>
 **Zifan Song**, Cairong Zhao, Guosheng Hu, Duoqian Miao<br>
 <B>IEEE Transactions on Industrial Informatics (**<font face="Georgia" color="Black"><B>TII</B></font>**), 2023<B><br>
@@ -163,12 +163,9 @@ social: false  # includes social icons at the bottom of the page
 <br>
 
 
-#### **Honors & Awards**
+#### **Honors & Services**
 <hr />
-<br>
-
-#### **Academic Services**
-<hr />
+- <B>Talk on "Data-Centric Collaborative Optimization of Features and Labels" @ CSIG CSIG Young Scientists Conference 2025</B>
 - <B>Conference Reviewer: **<font face="Georgia" color="Black"><B>ICLR</B></font>**, **<font face="Georgia" color="Black"><B>NeurIPS</B></font>**, **<font face="Georgia" color="Black"><B>ICML</B></font>**, **<font face="Georgia" color="Black"><B>AAAI</B></font>**, **<font face="Georgia" color="Black"><B>CVPR</B></font>**, **<font face="Georgia" color="Black"><B>ICCV</B></font>**, **<font face="Georgia" color="Black"><B>ACL</B></font>**, **<font face="Georgia" color="Black"><B>CAI</B></font>**</B>
 - <B>Journal Reviewer: **<font face="Georgia" color="Black"><B>TIP</B></font>**, **<font face="Georgia" color="Black"><B>IJCV</B></font>**, **<font face="Georgia" color="Black"><B>TMM</B></font>**</B>
 
