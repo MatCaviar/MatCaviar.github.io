@@ -93,10 +93,10 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 
 <br>
 
-### **Publications**
+### **Selected Publications**
 <hr />
 <img src="collections/DPL++.png"  width="307" height="133"  align="left" hspace="20" vspace="0"/>
-**<font face="Georgia" color="Black"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**
+**<font face="Georgia" color="Black" size="2"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**
 
 **<B>Zifan Song</B>**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao
 
@@ -133,26 +133,6 @@ arXiv, 2024
 
 <br>
 
-<img src="collections/OVOAD.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
-###### **Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?** 
-
-<font face="Georgia">Qingsong Zhao, Yi Wang, Jilan Xu, Yinan He, </font>**<font face="Georgia" color="Black"><B>Zifan Song</B></font>**<font face="Georgia">, Limin Wang, Yu Qiao, Cairong Zhao</font>
-
-Advances in Neural Information Processing Systems (**<font face="Georgia" color="Black"><B>NeurIPS</B></font>**), 2024
-
-[[<font color="Black"><B>📃 Paper</B></font>]](https://openreview.net/pdf?id=PWzB2V2b6R){:target="_blank"}
-
-<br>
-
-<img src="collections/CodeNeedComments.png" width="307" height="158"  align="left" hspace="20" vspace="0"/>
-###### **Code Needs Comments: Enhancing Code LLMs with Comment Augmentation** 
-<font face="Georgia">Demin Song, Honglin Guo, Yunhua Zhou, Shuhao Xing, Yudong Wang, </font>**<font face="Georgia" color="Black"><B>Zifan Song</B></font>**<font face="Georgia">, Wenwei Zhang, Qipeng Guo, Hang Yan, Xipeng Qiu, Dahua Lin</font>
-
-Annual Meeting of the Association for Computational Linguistics (**<font face="Georgia" color="Black"><B>ACL</B></font>**), 2024
-
-[[<font color="Black"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2402.13013){:target="_blank"}
-
-<br>
 
 <img src="collections/DP.png" width="307" height="137"   align="left" hspace="20" vspace="0"/>
 ###### **Diverse Person: Customize Your Own Dataset for Text-Based Person Search** 
@@ -188,19 +168,6 @@ IEEE Transactions on Industrial Informatics (**<font face="Georgia" color="Black
 
 <br>
 
-### **Pre-Prints**
-<hr />
-<img src="collections/internlm.png" width="307" height="137"   align="left" hspace="20" vspace="0"/>
-###### **InternLM2 Technical Report** 
-**<font face="Georgia" color="Black"><B>InternLM Group</B></font>**
-
-arXiv 2024
-
-[[<font color="Black"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2403.17297){:target="_blank"}
-[[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/internlm/internlm){:target="_blank"}
-[[<font color="Black"><B>🌐 Website</B></font>]](https://internlm.intern-ai.org.cn/){:target="_blank"}
-
-<br>
 
 
 ### **Service**
