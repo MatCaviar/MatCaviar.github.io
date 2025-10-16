@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 ## 宋<B>子帆</B>
 <hr />
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-I am a Ph.D candidate in Computer Science and Technology at Tongji University, advised by Prof. [**<font><B>Cairong Zhao</B></font>**](https://vill-lab.github.io/){:target="_blank"} and [**<font><B>Guosheng Hu</B></font>**](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from Tongji University. My research interests lie in **<font face="Georgia" color="Black"><B>Multimodal Learning</B></font>**, **<font face="Georgia" color="Black"><B>Data-centric AI</B></font>**, and **<font face="Georgia" color="Black"><B>LLM Agent</B></font>**.
+<B>I am a Ph.D candidate in Computer Science and Technology at Tongji University, advised by Prof. [**<font><B>Cairong Zhao</B></font>**](https://vill-lab.github.io/){:target="_blank"} and [**<font><B>Guosheng Hu</B></font>**](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from Tongji University. My research interests lie in **<font face="Georgia" color="Black"><B>Multimodal Learning</B></font>**, **<font face="Georgia" color="Black"><B>Data-centric AI</B></font>**, and **<font face="Georgia" color="Black"><B>LLM Agent</B></font>**.</B>
 
 <br>
 
@@ -39,11 +39,11 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
       <div class="col-md-6">
         <div class="education-details">
         <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>TONGJI UNIVERSITY</B></font></span></div>
-        <div>Doctoral Student</div><div> Computer Science and Technology</div><div> 2021.09 - Present</div>      
+        <div><B>Doctoral Student</B></div><div> <B>Computer Science and Technology</B></div><div> <B>2021.09 - Present</B></div>      
         <hr />
         <div class="education-details">
         <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>TONGJI UNIVERSITY</B></font></span></div>
-        <div>Bachelor Degree</div><div>Computer Science and Technology </div><div> 2017.09 - 2021.06 </div>      
+        <div><B>Bachelor Degree</B></div><div><B>Computer Science and Technology</B> </div><div> <B>2017.09 - 2021.06</B> </div>      
       </div>
     </div>
   </div>
