@@ -106,7 +106,7 @@ social: false  # includes social icons at the bottom of the page
 <img src="collections/DPL++.png"  width="307" height="123"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**<br>
 **Zifan Song**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao<br>
-<B>IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025<B><br>
+<B>IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025</B><br>
 [[<font color="Black"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}
 [[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}
 
@@ -126,7 +126,7 @@ social: false  # includes social icons at the bottom of the page
 <img src="collections/internlm.png" width="307" height="103"   align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>InternLM2 Technical Report</B></font>**<br>
 **InternLM Group**<br>
-<B>arXiv, 2024<B><br>
+<B>arXiv, 2024</B><br>
 [[<font color="Black"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2403.17297){:target="_blank"}
 [[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/internlm/internlm){:target="_blank"}
 [[<font color="Black"><B>🌐 Website</B></font>]](https://internlm.intern-ai.org.cn/){:target="_blank"}
@@ -137,7 +137,7 @@ social: false  # includes social icons at the bottom of the page
 <img src="collections/DP.png" width="307" height="113"   align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>Diverse Person: Customize Your Own Dataset for Text-Based Person Search</B></font>**<br>
 **Zifan Song**, Guosheng Hu, Cairong Zhao<br>
-<B>Proceedings of the AAAI Conference on Artificial Intelligence (**<font face="Georgia" color="Black"><B>AAAI</B></font>**), 2024<B><br>
+<B>Proceedings of the AAAI Conference on Artificial Intelligence (**<font face="Georgia" color="Black"><B>AAAI</B></font>**), 2024</B><br>
 [[<font color="Black"><B>📃 Paper</B></font>]](https://ojs.aaai.org/index.php/AAAI/article/view/28298){:target="_blank"}
 [[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2024-AAAI-DP){:target="_blank"}
 
@@ -146,7 +146,7 @@ social: false  # includes social icons at the bottom of the page
 <img src="collections/DPL.png" width="307" height="123"   align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>Deep Perturbation Learning: Enhancing the Network Performance via Image Perturbations</B></font>**<br>
 **Zifan Song**, Xiao Gong, Guosheng Hu, Cairong Zhao<br>
-<B>International Conference on Machine Learning (**<font face="Georgia" color="Black"><B>ICML</B></font>**), 2023<B><br>
+<B>International Conference on Machine Learning (**<font face="Georgia" color="Black"><B>ICML</B></font>**), 2023</B><br>
 [[<font color="Black"><B>📃 Paper</B></font>]](https://proceedings.mlr.press/v202/song23c.html){:target="_blank"}
 [[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}
 
@@ -155,7 +155,7 @@ social: false  # includes social icons at the bottom of the page
 <img src="collections/SPG.png" width="307" height="103"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>Learning Scene-Pedestrian Graph for End-to-End Person Search</B></font>**<br>
 **Zifan Song**, Cairong Zhao, Guosheng Hu, Duoqian Miao<br>
-<B>IEEE Transactions on Industrial Informatics (**<font face="Georgia" color="Black"><B>TII</B></font>**), 2023<B><br>
+<B>IEEE Transactions on Industrial Informatics (**<font face="Georgia" color="Black"><B>TII</B></font>**), 2023</B><br>
 [[<font color="Black"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/abstract/document/10214025/){:target="_blank"}
 [[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-TII-SPG){:target="_blank"}
 
@@ -165,7 +165,7 @@ social: false  # includes social icons at the bottom of the page
 
 #### **Honors & Services**
 <hr />
-- <B>Talk on **<font face="Georgia" color="Black" size="3"><B>Data-Centric Collaborative Optimization of Features and Labels</B></font>** @ CSIG Young Scientists Conference 2025</B>
+- <B>Talk on **<font face="Georgia" color="Black" size="3"><B>Data-Centric Collaborative Optimization of Features and Labels</B></font>** @ CSIG Young Scientists Conference, 2025</B>
 - <B>Conference Reviewer: **<font face="Georgia" color="Black"><B>ICLR</B></font>**, **<font face="Georgia" color="Black"><B>NeurIPS</B></font>**, **<font face="Georgia" color="Black"><B>ICML</B></font>**, **<font face="Georgia" color="Black"><B>AAAI</B></font>**, **<font face="Georgia" color="Black"><B>CVPR</B></font>**, **<font face="Georgia" color="Black"><B>ICCV</B></font>**, **<font face="Georgia" color="Black"><B>ACL</B></font>**, **<font face="Georgia" color="Black"><B>CAI</B></font>**</B>
 - <B>Journal Reviewer: **<font face="Georgia" color="Black"><B>TIP</B></font>**, **<font face="Georgia" color="Black"><B>IJCV</B></font>**, **<font face="Georgia" color="Black"><B>TMM</B></font>**</B>
 
