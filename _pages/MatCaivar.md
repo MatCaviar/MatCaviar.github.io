@@ -154,20 +154,27 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
+**<font face="Georgia" color="Black" size="3"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**<br>
+**Zifan Song**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao<br>
+<B>IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025<B><br>
+[[<font color="Black">📃 Paper</font>]](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}
+[[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}
+
 #### **Honors & Awards**
 <hr />
 <div class="education">
     <div class="row">
       <div class="col-md-2">
-        <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="100px" height="100px">
+        <img class="img-fluid z-depth-0.5 rounded" src="collections/AlchemistCoder.png" width="100px" height="100px">
         <br>
         <br>
         <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="100px" height="100px">
       </div>
       <div class="col-md-6">
         <div class="education-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>Tongji University</B></font></span></div>
-        <div><B>Doctoral Student</B></div><div> <B>Computer Science and Technology</B></div><div> <B>2021.09 - Present</B></div>      
+        <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font></span></div>
+        <div>**Zifan Song**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao</div><div><B>IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025<B></div><div>[[<font color="Black">📃 Paper</font>]](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}
+[[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}</B></div>      
         <hr />
         <div class="education-details">
         <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>Tongji University</B></font></span></div>
@@ -181,8 +188,8 @@ social: false  # includes social icons at the bottom of the page
 
 #### **Academic Services**
 <hr />
-- <B>Conference Reviewer: ICLR, NeurIPS, ICML, AAAI, CVPR, ICCV, ACL, CAI</B>
-- <B>Journal Reviewer: IJCV, TMM</B>
+- <B>Conference Reviewer: **<font face="Georgia" color="Black"><B>ICLR</B></font>**, **<font face="Georgia" color="Black"><B>NeurIPS</B></font>**, **<font face="Georgia" color="Black"><B>ICML</B></font>**, **<font face="Georgia" color="Black"><B>AAAI</B></font>**, **<font face="Georgia" color="Black"><B>CVPR</B></font>**, **<font face="Georgia" color="Black"><B>ICCV</B></font>**, **<font face="Georgia" color="Black"><B>ACL</B></font>**, **<font face="Georgia" color="Black"><B>CAI</B></font>**</B>
+- <B>Journal Reviewer: **<font face="Georgia" color="Black"><B>IJCV</B></font>**, **<font face="Georgia" color="Black"><B>TMM</B></font>**</B>
 
 
 <br>
