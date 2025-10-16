@@ -52,7 +52,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-### Internship
+#### **Internship**
 <hr />
 <div class="Internship">
     <div class="row">
@@ -155,6 +155,7 @@ social: false  # includes social icons at the bottom of the page
 <br>
 
 #### **Honors & Awards**
+<hr />
 <div class="education">
     <div class="row">
       <div class="col-md-2">
@@ -176,6 +177,7 @@ social: false  # includes social icons at the bottom of the page
   </div>
 </div>
 </div>
+<br>
 
 #### **Academic Services**
 <hr />
