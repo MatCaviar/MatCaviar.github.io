@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 <br>
 
 
-### **Education**
+#### **Education**
 <hr />
 <div class="education">
     <div class="row">
@@ -52,7 +52,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-### **Internship**
+### Internship
 <hr />
 <div class="Internship">
     <div class="row">
@@ -78,7 +78,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-### **News**
+#### **News**
 <hr />
 - <B>[2025/09] **1 Paper** on [**<B>Learning Paradigm for LLMs</B>**](https://arxiv.org/abs/2505.11820){:target="_blank"} is accepted by Advances in Neural Information Processing Systems (**<font face="Georgia" color="Black"><B>NeurIPS</B></font>**), 2025.</B>
 - <B>[2025/09] I have been invited to serve as a Reviewer for International Conference on Learning Representations (**<font face="Georgia" color="Black"><B>ICLR</B></font>**), 2026.</B>
@@ -93,7 +93,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-### **Selected Publications**
+#### **Selected Publications**
 <hr />
 <img src="collections/DPL++.png"  width="307" height="133"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**<br>
@@ -154,91 +154,39 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-
-
-### **Service**
-<hr />
-<div class="industry">
-    <div class="table-responsive">
-        <table class="table table-sm table-borderless">
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Reviewer</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">IEEE Transactions on Image Processing (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>TIP</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2025 - Present</font></th>
-          </tr>
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Reviewer</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">International Conference on Learning Representations (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>ICLR</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2024 - Present</font></th>
-          </tr>
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Program Committee</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">Annual AAAI Conference on Artificial Intelligence (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>AAAI</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2025 - Present</font></th>
-          </tr>
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Reviewer</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">Advances in Neural Information Processing Systems (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>NeurIPS</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2025 - Present</font></th>
-          </tr>
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Reviewer</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">International Conference on Machine Learning (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>ICML</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2024 - Present</font></th>
-          </tr>
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Reviewer</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">International Conference on Computer Vision (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>ICCV</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2025 - Present</font></th>
-          </tr>
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Reviewer</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">Annual Meeting of the Association for Computational Linguistics (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>ACL</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2025 - Present</font></th>
-          </tr>
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Reviewer</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">International Journal of Computer Vision (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>IJCV</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2025 - Present</font></th>
-          </tr>
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Reviewer</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">IEEE Transactions on Multimedia (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>TMM</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2025 - Present</font></th>
-          </tr>
-          <tr>
-            <th scope="row"><span style="font-weight: bold"><font face="Georgia" color="Black" size="3"><B>Reviewer</B></font></span></th>
-            <td>
-                <a class="news-title"><font size="3">IEEE Conference on Artificial Intelligence (<span style="font-weight: bold"><font face="Georgia" color="Black"><B>CAI</B></font></span>)</font></a>
-            </td>
-            <th scope="row"><font size="3">2024 - Present</font></th>
-          </tr>
-        </table>
-    </div>  
+#### **Honors & Awards**
+<div class="education">
+    <div class="row">
+      <div class="col-md-2">
+        <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="100px" height="100px">
+        <br>
+        <br>
+        <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="100px" height="100px">
+      </div>
+      <div class="col-md-6">
+        <div class="education-details">
+        <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>Tongji University</B></font></span></div>
+        <div><B>Doctoral Student</B></div><div> <B>Computer Science and Technology</B></div><div> <B>2021.09 - Present</B></div>      
+        <hr />
+        <div class="education-details">
+        <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>Tongji University</B></font></span></div>
+        <div><B>Bachelor Degree</B></div><div><B>Computer Science and Technology</B> </div><div> <B>2017.09 - 2021.06</B> </div>      
+      </div>
+    </div>
+  </div>
 </div>
+</div>
+
+#### **Academic Services**
+<hr />
+- <B>Conference Reviewer: ICLR, NeurIPS, ICML, AAAI, CVPR, ICCV, ACL, CAI</B>
+- <B>Journal Reviewer: IJCV, TMM</B>
+
 
 <br>
 
 
-### **Connections**
+#### **Friends**
 <hr />
 [<span style="font-weight: bold"><font face="Georgia" color="Black"><B>Shuguang Dou,</B></font></span>](https://shuguang-52.github.io/){:target="_blank"}
 [<span style="font-weight: bold"><font face="Georgia" color="Black"><B>Junyao Gao,</B></font></span>](https://jeoyal.github.io/home){:target="_blank"}
