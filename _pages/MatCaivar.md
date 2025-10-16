@@ -99,7 +99,7 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 **<font face="Georgia" color="Black" size="3"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**<br>
 **Zifan Song**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao<br>
 <B>IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025<B><br>
-[[<B>📃 Paper</B>]](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}
+[[<font color="Black">📃 Paper</font>]](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}
 [[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}
 
 <br>
