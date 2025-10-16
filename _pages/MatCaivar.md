@@ -95,6 +95,14 @@ social: false  # includes social icons at the bottom of the page
 
 #### **Selected Publications**
 <hr />
+<img src="collections/TiMi.png"  width="307" height="173"  align="left" hspace="20" vspace="0"/>
+**<font face="Georgia" color="Black" size="3"><B>Rationality-Driven Agentic System</B></font>**<br>
+**Zifan Song**, Kaitao Song, Guosheng Hu, Ding Qi, Junyao Gao, Xiaohua Wang, Dongsheng Li, Cairong Zhao<br>
+<B>Preprint on arXiv, 2025</B><br>
+[[<font color="Black"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2510.04787){:target="_blank"}
+
+<br>
+
 <img src="collections/DPL++.png"  width="307" height="133"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**<br>
 **Zifan Song**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao<br>
@@ -136,7 +144,7 @@ social: false  # includes social icons at the bottom of the page
 <br>
 
 <img src="collections/DPL.png" width="307" height="150"   align="left" hspace="20" vspace="0"/>
-**<font face="Georgia" color="Black" size="3"><B>Deep perturbation learning: enhancing the network performance via image perturbations</B></font>**<br>
+**<font face="Georgia" color="Black" size="3"><B>Deep Perturbation Learning: Enhancing the Network Performance via Image Perturbations</B></font>**<br>
 **Zifan Song**, Xiao Gong, Guosheng Hu, Cairong Zhao<br>
 <B>International Conference on Machine Learning (**<font face="Georgia" color="Black"><B>ICML</B></font>**), 2023<B><br>
 [[<font color="Black"><B>📃 Paper</B></font>]](https://proceedings.mlr.press/v202/song23c.html){:target="_blank"}
@@ -154,11 +162,6 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-**<font face="Georgia" color="Black" size="3"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**<br>
-**Zifan Song**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao<br>
-<B>IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025<B><br>
-[[<font color="Black">📃 Paper</font>]](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}
-[[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}
 
 #### **Honors & Awards**
 <hr />
