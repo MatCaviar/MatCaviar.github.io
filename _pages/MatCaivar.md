@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 ## 宋<B>子帆</B>
 <hr />
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-<B>I am a Ph.D candidate in Computer Science and Technology at Tongji University, advised by Prof. [**<font><B>Cairong Zhao</B></font>**](https://vill-lab.github.io/){:target="_blank"} and [**<font><B>Guosheng Hu</B></font>**](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from Tongji University. My research interests lie in **<font face="Georgia" color="Black"><B>Multimodal Learning</B></font>**, **<font face="Georgia" color="Black"><B>Data-centric AI</B></font>**, and **<font face="Georgia" color="Black"><B>LLM Agent</B></font>**.</B>
+<B>I am a Ph.D candidate in Computer Science and Technology at Tongji University, advised by Prof. [**<font><B>Cairong Zhao</B></font>**](https://vill-lab.github.io/){:target="_blank"} and [**<font><B>Guosheng Hu</B></font>**](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from Tongji University. My research interests lie in **<font face="Georgia" color="Black"><B>MULTIMODAL LEARNING</B></font>**, **<font face="Georgia" color="Black"><B>DATA-CENTRIC AI</B></font>**, and **<font face="Georgia" color="Black"><B>LLM AGENT</B></font>**.</B>
 
 <br>
 
@@ -64,12 +64,12 @@ social: false  # includes social icons at the bottom of the page
       </div>
       <div class="col-md-6">
         <div class="Internship-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>Microsoft Research Asia</B></font></span></div>
-        <div>AI/ML Group</div><div> LLM Agent & World Model</div><div> 2025.03 - 2025.12</div>      
+        <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>MICROSOFT RESEARCH ASIA</B></font></span></div>
+        <div><B>AI/ML Group</B></div><div> <B>LLM Agent & World Model</B></div><div> <B>2025.03 - 2025.12</B></div>      
         <hr />
         <div class="Internship-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>Shanghai AI Laboratory</B></font></span></div>
-        <div>OpenMMLab @InternLM</div><div>LLM Fine-tuning & Code LLM</div><div> 2023.09 - 2024.06 </div>      
+        <div><span style="font-weight: bold"><font face="Georgia" color="Black"><B>SHANGHAI AI LABORATORY</B></font></span></div>
+        <div><B>OpenMMLab @InternLM</B></div><div><B>LLM Fine-tuning & Code LLM</B></div><div> <B>2023.09 - 2024.06</B> </div>      
       </div>
     </div>
   </div>
@@ -79,7 +79,7 @@ social: false  # includes social icons at the bottom of the page
 <br>
 
 ### **News**
-<hr />
+<hr /><B>
 - [2025/09] **1 Paper** on [**<B>Learning Paradigm for LLMs</B>**](https://arxiv.org/abs/2505.11820){:target="_blank"} is accepted by Advances in Neural Information Processing Systems (**<font face="Georgia" color="Black"><B>NeurIPS</B></font>**), 2025.
 - [2025/09] I have been invited to serve as a Reviewer for International Conference on Learning Representations (**<font face="Georgia" color="Black"><B>ICLR</B></font>**), 2026.
 - [2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing (**<font face="Georgia" color="Black"><B>TIP</B></font>**).
@@ -90,7 +90,7 @@ social: false  # includes social icons at the bottom of the page
 - [2025/03] I will join Microsoft Research Asia (**<font face="Georgia" color="Black"><B>MSRA</B></font>**) to start an internship journey.
 - [2025/03] I have been invited to serve as a Reviewer for **<font face="Georgia" color="Black"><B>ACL</B></font>** Rolling Review.
 - [2025/02] **1 Paper** on [**<font><B>Deepfake Detection</B></font>**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001293){:target="_blank"} is accepted by Pattern Recognition (**<font face="Georgia" color="Black"><B>PR</B></font>**), 2025.
-
+</B>
 <br>
 
 ### **Selected Publications**
