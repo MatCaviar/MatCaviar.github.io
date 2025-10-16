@@ -96,9 +96,9 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 ### **Publications**
 <hr />
 <img src="collections/DPL++.png"  width="307" height="133"  align="left" hspace="20" vspace="0"/>
-###### **DPL++: Advancing the Network Performance via Image and Label Perturbations** 
+**<font face="Georgia" color="Black"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**
 
-**<font face="Georgia" color="Black"><B>Zifan Song</B></font>**<font face="Georgia">, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao</font>
+**<B>Zifan Song</B>**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025 
 
