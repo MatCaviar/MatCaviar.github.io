@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-## 宋<B>子帆</B>
+## <B>宋子帆</B>
 <hr />
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 <B>I am a Ph.D candidate in Computer Science and Technology at Tongji University, advised by Prof. [**<font><B>Cairong Zhao</B></font>**](https://vill-lab.github.io/){:target="_blank"} and [**<font><B>Guosheng Hu</B></font>**](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from Tongji University. My research interests lie in **<font face="Georgia" color="RoyalBlue"><B>Multimodal Learning</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>Data-centric AI</B></font>**, and **<font face="Georgia" color="RoyalBlue"><B>LLM Agent</B></font>**.</B>
