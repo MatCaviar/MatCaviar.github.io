@@ -112,7 +112,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-<img src="collections/AlchemistCoder.png"  width="307" height="133"  align="left" hspace="20" vspace="0"/>
+<img src="collections/AlchemistCoder.png"  width="307" height="153"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data</B></font>**<br>
 **Zifan Song**, Yudong Wang, Wenwei Zhang, Kuikun Liu, Chengqi Lyu, Demin Song, Qipeng Guo, Hang Yan, Dahua Lin, Kai Chen, Cairong Zhao<br>
 <B>Advances in Neural Information Processing Systems (**<font face="Georgia" color="Black"><B>NeurIPS</B></font>**), 2024</B><br>
@@ -165,7 +165,7 @@ social: false  # includes social icons at the bottom of the page
 
 #### **Honors & Services**
 <hr />
-- <B>Talk on "Data-Centric Collaborative Optimization of Features and Labels" @ CSIG CSIG Young Scientists Conference 2025</B>
+- <B>Talk on **<font face="Georgia" color="Black" size="3"><B>Data-Centric Collaborative Optimization of Features and Labels</B></font>** @ CSIG Young Scientists Conference 2025</B>
 - <B>Conference Reviewer: **<font face="Georgia" color="Black"><B>ICLR</B></font>**, **<font face="Georgia" color="Black"><B>NeurIPS</B></font>**, **<font face="Georgia" color="Black"><B>ICML</B></font>**, **<font face="Georgia" color="Black"><B>AAAI</B></font>**, **<font face="Georgia" color="Black"><B>CVPR</B></font>**, **<font face="Georgia" color="Black"><B>ICCV</B></font>**, **<font face="Georgia" color="Black"><B>ACL</B></font>**, **<font face="Georgia" color="Black"><B>CAI</B></font>**</B>
 - <B>Journal Reviewer: **<font face="Georgia" color="Black"><B>TIP</B></font>**, **<font face="Georgia" color="Black"><B>IJCV</B></font>**, **<font face="Georgia" color="Black"><B>TMM</B></font>**</B>
 
