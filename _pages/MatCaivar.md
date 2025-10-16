@@ -65,11 +65,11 @@ social: false  # includes social icons at the bottom of the page
       <div class="col-md-6">
         <div class="Internship-details">
         <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Microsoft Research Asia</B></font></span></div>
-        <div><B>AI/ML Group</B></div><div> <B>LLM Agent & World Model</B></div><div> <B>2025.03 - 2025.12</B></div>      
+        <div><B>AI/ML Group | Co-worker/Mentor: [**<font><B>Kaitao Song</B></font>**](https://scholar.google.com/citations?hl=zh-CN&user=LLk9dR8AAAAJ){:target="_blank"} and [**<font><B>Dongsheng Li</B></font>**](http://recmind.cn/){:target="_blank"}</B></div><div> <B>LLM Agent & World Model</B></div><div> <B>2025.03 - 2025.12</B></div>      
         <hr />
         <div class="Internship-details">
         <div><span style="font-weight: bold"><font face="Georgia" color="RoyalBlue"><B>Shanghai AI Laboratory</B></font></span></div>
-        <div><B>OpenMMLab @InternLM</B></div><div><B>LLM Fine-tuning & Code LLM</B></div><div> <B>2023.09 - 2024.06</B> </div>      
+        <div><B>OpenMMLab @InternLM | Co-worker/Mentor: [**<font><B>Wenwei Zhang</B></font>**](https://scholar.google.com/citations?hl=zh-CN&user=QDXADSEAAAAJ){:target="_blank"} and [**<font><B>Kai Chen</B></font>**](https://chenkai.site/){:target="_blank"}</B></div><div><B>LLM Fine-tuning & Code LLM</B></div><div> <B>2023.09 - 2024.06</B> </div>      
       </div>
     </div>
   </div>
