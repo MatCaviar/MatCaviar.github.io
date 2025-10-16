@@ -80,16 +80,16 @@ social: false  # includes social icons at the bottom of the page
 
 #### **News**
 <hr />
-- <B>[2025/09] **1 Paper** on [**<B>Learning Paradigm for LLMs</B>**](https://arxiv.org/abs/2505.11820){:target="_blank"} is accepted by Advances in Neural Information Processing Systems (**<font face="Georgia" color="Black"><B>NeurIPS</B></font>**), 2025.</B>
+- <B>[2025/09] **1 Paper** on [**<font face="Georgia" color="Black"><B>Learning Paradigm for LLMs</B></font>**](https://arxiv.org/abs/2505.11820){:target="_blank"} is accepted by Advances in Neural Information Processing Systems (**<font face="Georgia" color="Black"><B>NeurIPS</B></font>**), 2025.</B>
 - <B>[2025/09] I have been invited to serve as a Reviewer for International Conference on Learning Representations (**<font face="Georgia" color="Black"><B>ICLR</B></font>**), 2026.</B>
 - <B>[2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing (**<font face="Georgia" color="Black"><B>TIP</B></font>**).</B>
-- <B>[2025/07] **1 Paper** on [**<B>Training Paradigm</B>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"} is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025.</B>
+- <B>[2025/07] **1 Paper** on [**<font face="Georgia" color="Black"><B>Training Paradigm</B></font>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"} is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025.</B>
 - <B>[2025/07] I have been invited to serve as a Reviewer for the 40th Annual AAAI Conference on Artificial Intelligence (**<font face="Georgia" color="Black"><B>AAAI</B></font>**), 2026.</B>
 - <B>[2025/04] I have been invited to serve as a Reviewer for Advances in Neural Information Processing Systems (**<font face="Georgia" color="Black"><B>NeurIPS</B></font>**), 2025.</B>
 - <B>[2025/03] I have been invited to serve as a Reviewer for International Conference on Computer Vision (**<font face="Georgia" color="Black"><B>ICCV</B></font>**), 2025.</B>
 - <B>[2025/03] I will join Microsoft Research Asia (**<font face="Georgia" color="Black"><B>MSRA</B></font>**) to start an internship journey.</B>
 - <B>[2025/03] I have been invited to serve as a Reviewer for **<font face="Georgia" color="Black"><B>ACL</B></font>** Rolling Review.</B>
-- <B>[2025/02] **1 Paper** on [**<font><B>Deepfake Detection</B></font>**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001293){:target="_blank"} is accepted by Pattern Recognition (**<font face="Georgia" color="Black"><B>PR</B></font>**), 2025.</B>
+- <B>[2025/02] **1 Paper** on [**<font face="Georgia" color="Black"><B>Deepfake Detection</B></font>**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001293){:target="_blank"} is accepted by Pattern Recognition (**<font face="Georgia" color="Black"><B>PR</B></font>**), 2025.</B>
 
 <br>
 
