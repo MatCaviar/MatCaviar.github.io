@@ -97,19 +97,16 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 <hr />
 <img src="collections/DPL++.png"  width="307" height="133"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="Black" size="3"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**
-
 **<B>Zifan Song</B>**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao<br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025
-
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025<br>
 [[<font color="Black"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"}
 [[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/Vill-Lab/2023-ICML-DPL){:target="_blank"}
 
 <br>
 
 <img src="collections/AlchemistCoder.png"  width="307" height="173"  align="left" hspace="20" vspace="0"/>
-**<font face="Georgia" color="Black" size="3"><B>AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data</B></font>**
-
-**<B>Zifan Song*</B>**, Yudong Wang*, Wenwei Zhang*, Kuikun Liu, Chengqi Lyu, Demin Song, Qipeng Guo, Hang Yan, Dahua Lin, Kai Chen, Cairong Zhao<br>
+**<font face="Georgia" color="Black" size="3"><B>AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data</B></font>**<br>
+<B>Zifan Song</B>, Yudong Wang, Wenwei Zhang, Kuikun Liu, Chengqi Lyu, Demin Song, Qipeng Guo, Hang Yan, Dahua Lin, Kai Chen, Cairong Zhao<br>
 Advances in Neural Information Processing Systems (**<font face="Georgia" color="Black"><B>NeurIPS</B></font>**), 2024<br>
 [[<font color="Black"><B>📃 Paper</B></font>]](https://arxiv.org/pdf/2405.19265){:target="_blank"}
 [[<font color="Black"><B>👨‍💻 Code</B></font>]](https://github.com/InternLM/AlchemistCoder){:target="_blank"}
