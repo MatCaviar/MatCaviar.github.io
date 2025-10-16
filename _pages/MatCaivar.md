@@ -96,7 +96,7 @@ I am a Ph.D candidate in Computer Science and Technology at Tongji University, a
 ### **Selected Publications**
 <hr />
 <img src="collections/DPL++.png"  width="307" height="133"  align="left" hspace="20" vspace="0"/>
-**<font face="Georgia" color="Black" size="4"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**
+**<font face="Georgia" color="Black" size="3"><B>DPL++: Advancing the Network Performance via Image and Label Perturbations</B></font>**
 
 **<B>Zifan Song</B>**, Xiao Gong, Guosheng Hu, Shuguang Dou, Qingsong Zhao, Cairong Zhao<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="Black"><B>TPAMI</B></font>**), 2025
@@ -107,7 +107,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Ge
 <br>
 
 <img src="collections/AlchemistCoder.png"  width="307" height="173"  align="left" hspace="20" vspace="0"/>
-**<font face="Georgia" color="Black" size="4"><B>AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data</B></font>**
+**<font face="Georgia" color="Black" size="3"><B>AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data</B></font>**
 
 **<B>Zifan Song*</B>**, Yudong Wang*, Wenwei Zhang*, Kuikun Liu, Chengqi Lyu, Demin Song, Qipeng Guo, Hang Yan, Dahua Lin, Kai Chen, Cairong Zhao<br>
 Advances in Neural Information Processing Systems (**<font face="Georgia" color="Black"><B>NeurIPS</B></font>**), 2024<br>
@@ -119,7 +119,7 @@ Advances in Neural Information Processing Systems (**<font face="Georgia" color=
 <br>
 
 <img src="collections/internlm.png" width="307" height="137"   align="left" hspace="20" vspace="0"/>
-**<font face="Georgia" color="Black" size="4"><B>InternLM2 Technical Report</B></font>**
+**<font face="Georgia" color="Black" size="3"><B>InternLM2 Technical Report</B></font>**
 **<font face="Georgia" color="Black"><B>InternLM Group</B></font>**
 
 arXiv, 2024
@@ -132,7 +132,7 @@ arXiv, 2024
 
 
 <img src="collections/DP.png" width="307" height="137"   align="left" hspace="20" vspace="0"/>
-**<font face="Georgia" color="Black" size="4"><B>Diverse Person: Customize Your Own Dataset for Text-Based Person Search</B></font>**
+**<font face="Georgia" color="Black" size="3"><B>Diverse Person: Customize Your Own Dataset for Text-Based Person Search</B></font>**
 **<font face="Georgia" color="Black"><B>Zifan Song</B></font>**<font face="Georgia">, Guosheng Hu, Cairong Zhao</font>
 
 Proceedings of the AAAI Conference on Artificial Intelligence (**<font face="Georgia" color="Black"><B>AAAI</B></font>**), 2024
@@ -143,7 +143,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (**<font face="Geo
 <br>
 
 <img src="collections/DPL.png" width="307" height="150"   align="left" hspace="20" vspace="0"/>
-**<font face="Georgia" color="Black" size="4"><B>Deep perturbation learning: enhancing the network performance via image perturbations</B></font>**
+**<font face="Georgia" color="Black" size="3"><B>Deep perturbation learning: enhancing the network performance via image perturbations</B></font>**
 **<font face="Georgia" color="Black"><B>Zifan Song</B></font>**<font face="Georgia">, Xiao Gong, Guosheng Hu, Cairong Zhao</font>
 
 International Conference on Machine Learning (**<font face="Georgia" color="Black"><B>ICML</B></font>**), 2023
@@ -154,7 +154,7 @@ International Conference on Machine Learning (**<font face="Georgia" color="Blac
 <br>
 
 <img src="collections/SPG.png" width="307" height="137"  align="left" hspace="20" vspace="0"/>
-**<font face="Georgia" color="Black" size="4"><B>Learning Scene-Pedestrian Graph for End-to-End Person Search</B></font>**
+**<font face="Georgia" color="Black" size="3"><B>Learning Scene-Pedestrian Graph for End-to-End Person Search</B></font>**
 **<font face="Georgia" color="Black"><B>Zifan Song</B></font>**<font face="Georgia">, Cairong Zhao, Guosheng Hu, Duoqian Miao</font>
 
 IEEE Transactions on Industrial Informatics (**<font face="Georgia" color="Black"><B>TII</B></font>**), 2023
