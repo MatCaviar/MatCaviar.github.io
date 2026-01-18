@@ -1,4 +1,4 @@
----
+<img width="490" height="248" alt="8a9edd9e237bc599156387e55077e537" src="https://github.com/user-attachments/assets/6dbe9f19-e529-43ca-9340-52f5f3edddec" />---
 layout: about
 title: MatCaviar
 permalink: /
@@ -166,6 +166,7 @@ social: false  # includes social icons at the bottom of the page
 
 #### **Honors & Services**
 <hr />
+- <B>**<font face="Georgia" color="RoyalBlue" size="3"><B>National Scholarship</B></font>** for Doctoral Students, 2025</B>
 - <B>Talk on **<font face="Georgia" color="RoyalBlue" size="3"><B>Data-Centric Collaborative Optimization of Features and Labels</B></font>** @ CSIG Young Scientists Conference, 2025</B>
 - <B>Conference Reviewer: **<font face="Georgia" color="RoyalBlue"><B>ICLR</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>NeurIPS</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>ICML</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>AAAI</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>CVPR</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>ICCV</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>ACL</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>CAI</B></font>**</B>
 - <B>Journal Reviewer: **<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>IJCV</B></font>**, **<font face="Georgia" color="RoyalBlue"><B>TMM</B></font>**</B>
