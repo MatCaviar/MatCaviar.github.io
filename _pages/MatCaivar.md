@@ -1,4 +1,5 @@
-<img width="490" height="248" alt="8a9edd9e237bc599156387e55077e537" src="https://github.com/user-attachments/assets/6dbe9f19-e529-43ca-9340-52f5f3edddec" />---
+---
+
 layout: about
 title: MatCaviar
 permalink: /
