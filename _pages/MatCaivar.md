@@ -81,17 +81,12 @@ social: false  # includes social icons at the bottom of the page
 
 #### **News**
 <hr />
+- <B>[2026/01] **2 Papers** on [**<font face="Georgia" color="RoyalBlue"><B>Agentic System</B></font>**](https://arxiv.org/abs/2510.04787){:target="_blank"}|[**<font face="Georgia" color="RoyalBlue"><B>Multimodal Dataset Distillation</B></font>**](https://arxiv.org/abs/2510.04787){:target="_blank"} is accepted by the Fourteenth International Conference on Learning Representations (**<font face="Georgia" color="RoyalBlue"><B>ICLR</B></font>**), 2026.</B>
 - <B>[2025/09] **1 Paper** on [**<font face="Georgia" color="RoyalBlue"><B>RAG for LLMs</B></font>**](https://arxiv.org/abs/2505.11820){:target="_blank"} is accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**<font face="Georgia" color="RoyalBlue"><B>AAAI</B></font>**), 2026.</B>
 - <B>[2025/09] **1 Paper** on [**<font face="Georgia" color="RoyalBlue"><B>Learning Paradigm for LLMs</B></font>**](https://arxiv.org/abs/2505.11820){:target="_blank"} is accepted by Advances in Neural Information Processing Systems (**<font face="Georgia" color="RoyalBlue"><B>NeurIPS</B></font>**), 2025.</B>
 - <B>[2025/09] I have been invited to serve as a Reviewer for International Conference on Learning Representations (**<font face="Georgia" color="RoyalBlue"><B>ICLR</B></font>**), 2026.</B>
 - <B>[2025/08] I have been invited to serve as a Reviewer for IEEE Transactions on Image Processing (**<font face="Georgia" color="RoyalBlue"><B>TIP</B></font>**).</B>
 - <B>[2025/07] **1 Paper** on [**<font face="Georgia" color="RoyalBlue"><B>Training Paradigm</B></font>**](https://ieeexplore.ieee.org/abstract/document/11106184){:target="_blank"} is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font face="Georgia" color="RoyalBlue"><B>TPAMI</B></font>**), 2025.</B>
-- <B>[2025/07] I have been invited to serve as a Reviewer for the 40th Annual AAAI Conference on Artificial Intelligence (**<font face="Georgia" color="RoyalBlue"><B>AAAI</B></font>**), 2026.</B>
-- <B>[2025/04] I have been invited to serve as a Reviewer for Advances in Neural Information Processing Systems (**<font face="Georgia" color="RoyalBlue"><B>NeurIPS</B></font>**), 2025.</B>
-- <B>[2025/03] I have been invited to serve as a Reviewer for International Conference on Computer Vision (**<font face="Georgia" color="RoyalBlue"><B>ICCV</B></font>**), 2025.</B>
-- <B>[2025/03] I will join Microsoft Research Asia (**<font face="Georgia" color="RoyalBlue"><B>MSRA</B></font>**) to start an internship journey.</B>
-- <B>[2025/03] I have been invited to serve as a Reviewer for **<font face="Georgia" color="RoyalBlue"><B>ACL</B></font>** Rolling Review.</B>
-- <B>[2025/02] **1 Paper** on [**<font face="Georgia" color="RoyalBlue"><B>Deepfake Detection</B></font>**](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001293){:target="_blank"} is accepted by Pattern Recognition (**<font face="Georgia" color="RoyalBlue"><B>PR</B></font>**), 2025.</B>
 
 <br>
 
