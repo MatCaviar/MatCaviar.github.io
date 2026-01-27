@@ -95,7 +95,7 @@ social: false  # includes social icons at the bottom of the page
 <img src="collections/TiMi.png"  width="307" height="123"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="RoyalBlue" size="3"><B>Rationality-Driven Agentic System</B></font>**<br>
 **Zifan Song**, Kaitao Song, Guosheng Hu, Ding Qi, Junyao Gao, Xiaohua Wang, Dongsheng Li, Cairong Zhao<br>
-<B>Preprint on arXiv, 2025</B><br>
+<B>International Conference on Learning Representations (**<font face="Georgia" color="RoyalBlue"><B>ICLR</B></font>**), 2026</B><br>
 [[<font color="Black"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2510.04787){:target="_blank"}
 
 <br>
