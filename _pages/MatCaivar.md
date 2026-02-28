@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 ## <B>宋子帆</B>
 <hr />
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-<B>I am a Ph.D candidate in Computer Science and Technology at Tongji University, advised by Prof. [**<font><B>Cairong Zhao</B></font>**](https://vill-lab.github.io/){:target="_blank"} and [**<font><B>Guosheng Hu</B></font>**](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science and Technology from Tongji University. My research interests lie in **<font face="Georgia" color="Black"><B>Multimodal Learning</B></font>**, **<font face="Georgia" color="Black"><B>Data-centric AI</B></font>**, and **<font face="Georgia" color="Black"><B>LLM Agent</B></font>**.</B>
+<B>I am a Ph.D candidate in Computer Science at Tongji University, luckily advised by Prof. [Cairong Zhao](https://vill-lab.github.io/){:target="_blank"} and [**<font><B>Guosheng Hu</B></font>**](https://huguosheng.github.io/){:target="_blank"}. Prior to this, I obtained my bachelor degree in Computer Science from Tongji University. I had a remarkable journey at Microsoft Research Asia (collaborated with ) and OpenMMLab of Shanghai AI Laboratory. My research interests lie in **<font face="Georgia" color="Black"><B>Multimodal Learning</B></font>**, **<font face="Georgia" color="Black"><B>Data-centric AI</B></font>**, and **<font face="Georgia" color="Black"><B>LLM Agent</B></font>**.</B>
 
 <br>
 
