@@ -30,25 +30,33 @@ social: false  # includes social icons at the bottom of the page
 #### **Education**
 <hr />
 <div class="education">
-    <div class="row">
-      <div class="col-md-2">
-        <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="83px" height="83px">
-        <br>
-        <br>
-        <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="83px" height="83px">
-      </div>
-      <div class="col-md-6">
-        <div class="education-details">
+  <div class="row" style="margin-bottom: 20px;">
+    <div class="col-md-2">
+      <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="83px" height="83px">
+    </div>
+    <div class="col-md-6">
+      <div class="education-details">
         <div><span style="font-weight: bold"><font face="Georgia" color="#336699"><B>Tongji University</B></font></span></div>
-        <div><B>Doctoral Student</B></div><div> <B>Computer Science and Technology</B></div><div> <B>2021.09 - Present</B></div>      
-        <hr/>
-        <div class="education-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="#336699"><B>Tongji University</B></font></span></div>
-        <div><B>Bachelor Degree</B></div><div><B>Computer Science and Technology</B> </div><div> <B>2017.09 - 2021.06</B> </div>      
+        <div><B>Doctoral Student</B></div>
+        <div><B>Computer Science and Technology</B></div>
+        <div><B>2021.09 - Present</B></div>
       </div>
     </div>
   </div>
-</div>
+  <hr />
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="83px" height="83px">
+    </div>
+    <div class="col-md-6">
+      <div class="education-details">
+        <div><span style="font-weight: bold"><font face="Georgia" color="#336699"><B>Tongji University</B></font></span></div>
+        <div><B>Bachelor Degree</B></div>
+        <div><B>Computer Science and Technology</B></div>
+        <div><B>2017.09 - 2021.06</B></div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <br>
