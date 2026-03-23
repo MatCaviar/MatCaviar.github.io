@@ -43,7 +43,6 @@ social: false  # includes social icons at the bottom of the page
       </div>
     </div>
   </div>
-  <hr />
   <div class="row">
     <div class="col-md-2">
       <img class="img-fluid z-depth-0.5 rounded" src="collections/tongji.png" width="83px" height="83px">
@@ -64,25 +63,33 @@ social: false  # includes social icons at the bottom of the page
 #### **Internship**
 <hr />
 <div class="Internship">
-    <div class="row">
-      <div class="col-md-2">
-        <img class="img-fluid z-depth-0.5 rounded" src="collections/MSRA_logo.png" width="100px" height="100px">
-        <br>
-        <br>
-        <img class="img-fluid z-depth-0.5 rounded" src="collections/Sh_AI_Lab_logo.png" width="100px" height="100px">
-      </div>
-      <div class="col-md-6">
-        <div class="Internship-details">
+  <div class="row" style="margin-bottom: 20px;">
+    <div class="col-md-2">
+      <img class="img-fluid z-depth-0.5 rounded" src="collections/MSRA_logo.png" width="100px" height="100px">
+    </div>
+    <div class="col-md-6">
+      <div class="Internship-details">
         <div><span style="font-weight: bold"><font face="Georgia" color="#336699"><B>Microsoft Research Asia</B></font></span></div>
-        <div><B>AI/ML Group</B></div><div> <B>LLM Agent & World Model</B></div><div> <B>2025.03 - 2025.12</B></div>      
-        <hr />
-        <div class="Internship-details">
-        <div><span style="font-weight: bold"><font face="Georgia" color="#336699"><B>Shanghai AI Laboratory</B></font></span></div>
-        <div><B>OpenMMLab @InternLM</B></div><div><B>LLM Fine-tuning & Code LLM</B></div><div> <B>2023.09 - 2024.06</B> </div>      
+        <div><B>AI/ML Group</B></div>
+        <div><B>LLM Agent & World Model</B></div>
+        <div><B>2025.03 - 2025.12</B></div>
       </div>
     </div>
   </div>
-</div>
+
+  <div class="row">
+    <div class="col-md-2">
+      <img class="img-fluid z-depth-0.5 rounded" src="collections/Sh_AI_Lab_logo.png" width="100px" height="100px">
+    </div>
+    <div class="col-md-6">
+      <div class="Internship-details">
+        <div><span style="font-weight: bold"><font face="Georgia" color="#336699"><B>Shanghai AI Laboratory</B></font></span></div>
+        <div><B>OpenMMLab @InternLM</B></div>
+        <div><B>LLM Fine-tuning & Code LLM</B></div>
+        <div><B>2023.09 - 2024.06</B></div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <br>
