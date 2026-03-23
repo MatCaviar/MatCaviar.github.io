@@ -41,7 +41,7 @@ social: false  # includes social icons at the bottom of the page
         <div class="education-details">
         <div><span style="font-weight: bold"><font face="Georgia" color="#336699"><B>Tongji University</B></font></span></div>
         <div><B>Doctoral Student</B></div><div> <B>Computer Science and Technology</B></div><div> <B>2021.09 - Present</B></div>      
-        <hr />
+        <hr/>
         <div class="education-details">
         <div><span style="font-weight: bold"><font face="Georgia" color="#336699"><B>Tongji University</B></font></span></div>
         <div><B>Bachelor Degree</B></div><div><B>Computer Science and Technology</B> </div><div> <B>2017.09 - 2021.06</B> </div>      
