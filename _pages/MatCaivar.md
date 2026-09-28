@@ -108,6 +108,14 @@ social: false  # includes social icons at the bottom of the page
 
 #### **Selected Publications**
 <hr />
+<img src="collections/Z-AXIS.png"  width="307" height="123"  align="left" hspace="20" vspace="0"/>
+**<font face="Georgia" color="#336699" size="3"><B>Z-AXIS: From Deterministic Ground to Agentic Depth</B></font>**<br>
+**Zifan Song**, Mianzhi Chang, Ziyang Liao, haiyan xu, Yutong Liu, Cairong Zhao<br>
+<B>Advances in Neural Information Processing Systems (**<font face="Georgia" color="#336699"><B>NeurIPS</B></font>**), 2026</B><br>
+[[<font color="#336699"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2510.04787){:target="_blank"}
+
+<br>
+
 <img src="collections/TiMi.png"  width="307" height="123"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="#336699" size="3"><B>Rationality-Driven Agentic System</B></font>**<br>
 **Zifan Song**, Kaitao Song, Guosheng Hu, Ding Qi, Junyao Gao, Xiaohua Wang, Dongsheng Li, Cairong Zhao<br>
