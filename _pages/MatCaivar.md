@@ -108,7 +108,7 @@ social: false  # includes social icons at the bottom of the page
 
 #### **Selected Publications**
 <hr />
-<img src="collections/Z-AXIS.png"  width="307" height="123"  align="left" hspace="20" vspace="0"/>
+<img src="collections/Z-AXIS.png"  width="307" height="173"  align="left" hspace="20" vspace="0"/>
 **<font face="Georgia" color="#336699" size="3"><B>Z-AXIS: From Deterministic Ground to Agentic Depth</B></font>**<br>
 **Zifan Song**, Mianzhi Chang, Ziyang Liao, haiyan xu, Yutong Liu, Cairong Zhao<br>
 <B>Advances in Neural Information Processing Systems (**<font face="Georgia" color="#336699"><B>NeurIPS</B></font>**), 2026</B><br>
